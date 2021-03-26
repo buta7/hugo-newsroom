@@ -1,4 +1,4 @@
-baseurl = "https://higebobo.github.io/hugo-newsroom/"  # Include trailing slash
+baseurl = "https://buta7.github.io/hugo-newsroom/"  # Include trailing slash
 title = "Hugo Newsroom"
 theme = "newsroom"
 author = "Toyoake Kaki"
@@ -32,7 +32,7 @@ pygmentsOptions = "linenos=table"
 # ids used below are not valid. Replace with valid ones
 [params]
   # ga_analytics = "" # google analytics ID e.g UA-116386578-1
-  
+
   # ga_verify = "" # google verification code e.g 5jb-rxeBfITeJQKOuUss3ud6FPGTxXkCho-ZN5qlrZg
   # twitter = "" # twitter handle e.g @weru
   # blogDir = "blogFolderName" # uncomment and edit to exclude normal pages ... see issue #57
